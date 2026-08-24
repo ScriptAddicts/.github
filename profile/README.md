@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://talarian.io">
-    <img src="assets/og.png" alt="Talarian — Simple. Basic. Powerful." width="100%" />
+    <img src="assets/banner.png" alt="Talarian — Simple. Basic. Powerful." width="100%" />
   </a>
 </p>
 
